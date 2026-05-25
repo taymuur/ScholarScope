@@ -1,0 +1,5 @@
+# requirements for deploying the ScholarScope dashboard on Streamlit Cloud.
+
+streamlit==1.57.0
+pandas==3.0.2
+plotly==6.7.0
